@@ -1,2 +1,2 @@
 # .vscode
- Visual studio Code C setting repository
+ Visual studio Code C, C++  setting repository
